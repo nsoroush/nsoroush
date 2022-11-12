@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Najmeh, in love with mathematics and cryptography! I am computer scientist, specialist in cryptography and information security. Skilled in mathematics, secure electronic voting protocols and verifiable, secure and privacy preserving computation.
 
 <!--
 **nsoroush/nsoroush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
