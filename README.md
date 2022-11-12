@@ -1,12 +1,10 @@
 ### Hi there, I am Najmeh, in love with mathematics and cryptography! I am computer scientist, specialist in cryptography and information security. Skilled in mathematics, secure electronic voting protocols and verifiable, secure and privacy preserving computation.                                                
 
-🌱 ### I’m currently learning blockchain programming!
+🌱I’m currently learning blockchain programming!
 
-###I’m currently learning blockchain programming!
+💬 Ask me about gardening and baking :)
 
-###💬 Ask me about gardening and baking :)
-
-###📫 More about me on my website: https://nsoroush.github.io/
+📫 More about me on my website: https://nsoroush.github.io/
 
 
 
