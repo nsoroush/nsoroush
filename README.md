@@ -1,6 +1,5 @@
-### Hi there, I am Najmeh, in love with mathematics and cryptography! I am computer scientist, specialist in cryptography and information security. Skilled in mathematics, secure electronic voting protocols and verifiable, secure and privacy preserving computation.
-
-I am Najmeh, in love with maths and cryptography! I studied mathematics (Bs. and Ms.) at Sharif University of Technology, and my passion in problem solving and mystery led me to pursue computer science in University of Luxembourg. I began my master's degree in information security and then proceeded my PhD research on my beloved subject, Zero-Knowledge proof systems, a beautiful concept that conceals a contradiction at its core that interwoven the notions of clarity and mystery! If you like to know more on the subject you can take a look at my survey on ZK! .
+### Hi there, I am Najmeh, in love with mathematics and cryptography! I am computer scientist, specialist in cryptography and information security. Skilled in mathematics, secure electronic voting protocols and verifiable, secure and privacy preserving computation.                                                
+### I studied mathematics and my passion in problem solving and mystery led me to pursue computer science in University of Luxembourg. I began my master's degree in information security and then proceeded my PhD research on my beloved subject, Zero-Knowledge proof systems, a beautiful concept that conceals a contradiction at its core that interwoven the notions of clarity and mystery! If you like to know more on the subject you can take a look at my survey on ZK! .
 
 
 
