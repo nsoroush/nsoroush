@@ -1,4 +1,4 @@
-### Hi there, I am Nil, in love with mathematics and cryptography! I am computer scientist, specialist in cryptography and information security. Skilled in mathematics, secure electronic voting protocols and verifiable, secure and privacy preserving computation.                                                
+### Hi there, I am Nile, in love with mathematics and cryptography! I am computer scientist, specialist in cryptography and information security. Skilled in mathematics, secure electronic voting protocols and verifiable, secure and privacy preserving computation.                                                
 
 🌱I’m currently learning blockchain programming!
 
