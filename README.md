@@ -1,6 +1,6 @@
 ### Hi there, I am Nil, in love with mathematics and cryptography! I am computer scientist, specialist in cryptography and information security. Skilled in mathematics, secure electronic voting protocols and verifiable, secure and privacy preserving computation.                                                
 
-🌱I’m currently learning blockchain programming!
+🌱I’m currently focusing on STARKs series, aarkworks and lambdaworks libraries :P
 
 💬 Ask me about gardening and baking :)
 
